@@ -15,3 +15,22 @@
 <RequestCategory>Client Management</RequestCategory>
 </ClientRequestInput>
 </ClientRequestPayloadInputDataSet> 
+
+
+&lt;ClientRequestPayloadInputDataSet xmlns=&quot;http://tempuri.org/ClientRequestPayloadInputDataSet.xsd&quot;&gt;
+  &lt;ClientRequestInput&gt;
+    &lt;ContactAttempts&gt;0&lt;/ContactAttempts&gt;
+    &lt;ContactAttemptsMax&gt;3&lt;/ContactAttemptsMax&gt;
+    &lt;RequestReason&gt;Deceased &lt;/RequestReason&gt;
+    &lt;ClientName&gt;Customer&lt;/ClientName&gt;
+    &lt;OtherAccounts /&gt;
+    &lt;OtherInformation /&gt;
+    &lt;ProcessStatus&gt;Outstanding&lt;/ProcessStatus&gt;
+    &lt;ClientContactReq&gt;true&lt;/ClientContactReq&gt;
+    &lt;LastContactedName&gt;Customer&lt;/LastContactedName&gt;
+    &lt;ActionCount&gt;1&lt;/ActionCount&gt;
+    &lt;CIFCode&gt;CIF_Code&lt;/CIFCode&gt;
+    &lt;FeeChargeID&gt;-1&lt;/FeeChargeID&gt;
+    &lt;RequestCategory&gt;Client Management&lt;/RequestCategory&gt;
+  &lt;/ClientRequestInput&gt;
+&lt;/ClientRequestPayloadInputDataSet&gt;
