@@ -1,0 +1,17 @@
+<ClientRequestPayloadInputDataSet xmlns="http://tempuri.org/ClientRequestPayloadInputDataSet.xsd">
+<ClientRequestInput>
+<ContactAttempts>0</ContactAttempts>
+<ContactAttemptsMax>3</ContactAttemptsMax>
+<RequestReason>Deceased </RequestReason>
+<ClientName>Customer</ClientName>
+<OtherAccounts />
+<OtherInformation />
+<ProcessStatus>Outstanding</ProcessStatus>
+<ClientContactReq>true</ClientContactReq>
+<LastContactedName>Customer</LastContactedName>
+<ActionCount>1</ActionCount>
+<CIFCode>CIF_Code</CIFCode>
+<FeeChargeID>-1</FeeChargeID>
+<RequestCategory>Client Management</RequestCategory>
+</ClientRequestInput>
+</ClientRequestPayloadInputDataSet> 
